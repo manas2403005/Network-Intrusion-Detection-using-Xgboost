@@ -6,13 +6,6 @@ This repository contains the solution developed for a competitive machine learni
 
 The objective of this project is to build a multi-class classification model capable of identifying various types of network intrusions based on session-level features. The problem required careful attention to data preprocessing, class imbalance, and model interpretability to ensure robust performance, especially for rare and harmful attack classes.
 
-## Team Members
-
-- Mansi  
-- Ishanika  
-- Sameera  
-
-Team Name: BIZLI
 
 ## Problem Statement
 
